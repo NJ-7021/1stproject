@@ -1,2 +1,2 @@
 # 1stproject
-first Git Repo
+first Git Repository for learning git hub
